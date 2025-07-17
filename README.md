@@ -8,10 +8,14 @@
 
 ### 👩‍💻 About Me
 
-🎓 I'm currently pursuing my Bachelor's degree in Software Engineering  
-🧠 Passionate about Artificial Intelligence and exploring real-world applications of ML/DL  
+🎓 I'm currently pursuing my Bachelor's degree in Software Engineering
+
+🧠 Passionate about Artificial Intelligence and exploring real-world applications of ML/DL
+
 🌐 Skilled in Full-Stack Web Development 
-📊 Strong foundation in Data Science and Visualization  
+
+📊 Strong foundation in Data Science and Visualization 
+
 🚀 Always eager to learn new technologies and contribute to open-source projects
 
 ---
