@@ -10,7 +10,7 @@
 
 🎓 I'm currently pursuing my Bachelor's degree in Software Engineering  
 🧠 Passionate about Artificial Intelligence and exploring real-world applications of ML/DL  
-🌐 Skilled in Full-Stack Web Development and API Integration  
+🌐 Skilled in Full-Stack Web Development 
 📊 Strong foundation in Data Science and Visualization  
 🚀 Always eager to learn new technologies and contribute to open-source projects
 
@@ -53,5 +53,5 @@
 ### 📫 Contact Me
 
 📧 Email: laibaaahh@gmail.com  
-💼 LinkedIn: [linkedin.com/in/laiba27/](#)  
-🌐 Portfolio: [https://github.com/Laiba-27](#)
+🌐 LinkedIn: [linkedin.com/in/laiba27/](#)  
+
