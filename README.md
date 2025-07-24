@@ -12,7 +12,7 @@
 
 🧠 Passionate about Artificial Intelligence and exploring real-world applications of ML/DL
 
-🌐 Skilled in Full-Stack Web Development 
+🌐 Skilled in Front-End Development 
 
 📊 Strong foundation in Data Science and Visualization 
 
