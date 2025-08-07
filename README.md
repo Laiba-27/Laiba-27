@@ -57,5 +57,5 @@
 ### 📫 Contact Me
 
 📧 Email: laibaaahh@gmail.com  
-🌐 LinkedIn: [linkedin.com/in/laiba27/](#)  
+🌐 LinkedIn: https://www.linkedin.com/in/laiba27/  
 
